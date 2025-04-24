@@ -14,6 +14,7 @@ A custom terminal written in **C++**, built to support modular command extension
 
 ## Build Instructions
 
+```bash
 mkdir build
 cd build
 cmake ..
