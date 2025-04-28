@@ -9,6 +9,7 @@ include_directories(include)
 
 # Gather all source files
 file(GLOB_RECURSE MAIN_SRC src/*)
+
 # Create executable
 add_executable(modular-terminal
     ${MAIN_SRC}
