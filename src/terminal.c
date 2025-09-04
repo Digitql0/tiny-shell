@@ -55,7 +55,7 @@ char* read_line() {
     return buffer;
 }
 
-char** parse_line(char* command) {}
+char** parse_line(char* command) { return NULL; }
 
 int execute_command(char** tokens) { return 1; }
 

@@ -1,0 +1,3 @@
+[submodule "external/Data-Structures-Collection"]
+	path = external/Data-Structures-Collection
+	url = https://github.com/Digitql0/Data-Structures-Collection
